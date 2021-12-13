@@ -140,8 +140,18 @@ Discuss how the use case addresses the need to incorporate and respond to divers
 
 ## Requirements
 
-What specific requirements are learned from this use case? Cite only those requirements explicitly mentioned in ths prose of the rest of the focal use case.
+What specific requirements are learned from this use case? 
+
+Cite only those requirements explicitly mentioned in ths prose of the rest of the focal use case.
 1. **Name** Description
 1. **Name2** Second description
 
+Note, There are four main types of requirements.
 
+**Functional Requirements** -- What does the system need to do? How does it function? E.g., automated minting of NFTs based on computationally evaluable evidence.
+
+**Performance Requirements** -- Quantitative metrics of capacity in terms of time, space, or units. E.g., 25,000 verifications per day.
+
+**System Technical Requirements** -- Specific requirements to use a particular technology. E.g., web applications MUST use HTML and CSS.
+
+**Specifications** -- Published, formal guidance that a system must meet, such as compliance with a particular ISO, IETF, or W3C standard.
