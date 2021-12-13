@@ -72,3 +72,76 @@ Once operational, Helen finds a verification agent, Lynn, who was able to inspec
 ## UC15 Verified Impact
 
 Lynn is a verification agent for REC2022. She is called by HydroElec to audit their new production facility. After reviewing the certified proposal, she visits the HydroElec site to inspect and verify both the capacity of the system under operating conditions and the security of the automated smart meters. She uses a standard set of criteria established by the UN to record her observations and make a determination about the project’s compliance with both its certified proposal and UN requirements. After finding everything in order, Lynn issues a verification credential with a six month expiry and a maximum capacity of 20 billion kWh, which she gives to HydroElec. The credential references both the original proposal and its certification using machine-verifiable identifiers to ensure the authenticity of the verification.
+
+# Focal Use Cases
+
+Please use the following template to add focal use cases.
+
+## Title
+(Authors)
+
+## Background
+
+Illustrative text giving broader context for why this use case matters. Cover topics like
+* What’s the context
+* Whats’s the pain point
+* What’s the hope
+
+## Scenario
+A prose description of the actions taken by a specific person to create value with the system.
+## Distinction / Challenges
+A brief discussion of 
+1. What makes this use case different from other use cases in this effort
+2. Why this use case enables a different solution from what is available in the world today
+This should explain how this particular use case teaches us about building a better world.
+
+## Artifacts
+A list of key technical artifacts used to realize the use case: VCs, DIDs, IIDs, 
+
+## Trust / Liability Hierarchy
+Who needs to trust whom for the use case to work. State this in terms of who is liable for specific claims or actions in the system.
+
+## Threat Model
+Itemizes high risk problems related to this use case. Good threats are concrete, specific events that, if they occur, would undermine the use case. Some threats may be addressable by technology, others may require external processes or institutions to resolve. Others may be innate, unresolvable threats which must be accounted for. 
+
+This is an opportunity to highlight how a potential solution could address known risks better than current approaches. It also gives an opportunity to clarify the innate problems that are **not** solved by the new system directly.
+
+What threats should be considered when building a system for this use?
+What responses can be made, either within or outside the system to mediate this threat (for each threat).
+
+* **Threat: Name** : Description of the threat
+ * **Response** : Description of one response for mitigating the threat
+
+Focused on pre-emptive approaches rather than reactive.
+
+## Distinction / Challenge
+Relevance to the Earth Mission Sustainability
+Discuss how the use case contributes to UN Sustainable Development Goals:
+**Goal 1. End poverty in all its forms everywhere
+**Goal 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture
+**Goal 3. Ensure healthy lives and promote well-being for all at all ages
+**Goal 4. Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+**Goal 5. Achieve gender equality and empower all women and girls
+**Goal 6. Ensure availability and sustainable management of water and sanitation for all
+**Goal 7. Ensure access to affordable, reliable, sustainable and modern energy for all
+**Goal 8. Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
+**Goal 9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+**Goal 10. Reduce inequality within and among countries
+**Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable
+**Goal 12. Ensure sustainable consumption and production patterns
+**Goal 13. Take urgent action to combat climate change and its impacts [n 10]
+**Goal 14. Conserve and sustainably use the oceans, seas and marine resources for sustainable development
+**Goal 15. Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+**Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
+**Goal 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+## Diversity & Inclusion
+Discuss how the use case addresses the need to incorporate and respond to diverse requirements for a global population.
+
+## Requirements
+
+What specific requirements are learned from this use case? Cite only those requirements explicitly mentioned in ths prose of the rest of the focal use case.
+1. **Name** Description
+1. **Name2** Second description
+
+
